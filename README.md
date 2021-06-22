@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @xlguan
+- 👀 I’m interested in machine learning
+- 🌱 I’m currently learning python
